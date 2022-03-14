@@ -4,5 +4,6 @@ nav:
     - Acerca de: about.md
 theme:
     name: material
+    logo: iescelia.png
     palette:
         primary: lime
