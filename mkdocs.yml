@@ -9,3 +9,6 @@ theme:
     logo: iescelia.png
     palette:
         primary: lime
+    features:
+        - navigation.tabs
+        - navigation.tabs.sticky
