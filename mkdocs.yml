@@ -2,6 +2,8 @@ site_name: IAW - Maxi
 nav:
     - Principal: index.md
     - Acerca de: about.md
+    - Práctica 3: p3.md
+    - Práctica 5: p5.md
 theme:
     name: material
     logo: iescelia.png
